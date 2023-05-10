@@ -9,6 +9,7 @@ The script also counts and reports the number of modules it has installed.
 Usage: go to your w4af folder and run python w4af_pip_loop.py
 
 License: MIT
+
 """
 
 import subprocess
