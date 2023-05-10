@@ -6,7 +6,7 @@ It attempts to run w4af, and if a missing module error is encountered, it automa
 The script repeats this process until w4af starts successfully, or until a module fails to install.
 The script also counts and reports the number of modules it has installed.
 
-Usage: python w4af_pip_loop.py
+Usage: go to your w4af folder and run python w4af_pip_loop.py
 
 License: MIT
 """
